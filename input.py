@@ -2,7 +2,7 @@ EXCHANGE_COUPON = False  # 蜂蜜兑券 True为启用、False为禁用[默认禁
 HONEY_LOTTERY = False  # 蜂蜜抽奖 True为启用、False为禁用[默认禁用]
 DRAW_CARDS = False  # 周年庆卡牌抽奖 True为启用、False为禁用[默认禁用]
 DRAGONBOAT_LOTTERY = False  # 端午抽奖 True为启用、False为禁用[默认禁用]
-DRAGONBOAT_LOTTERY2 = True  # False为直接开启端午活动
+DRAGONBOAT_LOTTERY2 = True  # False为直接开启端午活动111
 
 
 
