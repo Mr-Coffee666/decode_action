@@ -1,7 +1,7 @@
 //Tue Jul 23 2024 09:41:42 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
-const _0x58a094 = new _0x313dd5("巴奴火锅小程序"),
+const _0x58a094 = new _0x313dd5("巴奴火锅小程序1"),
   _0x38bb5b = "bnmdhg",
   _0x521cbd = 1;
 let _0x5405b0 = ["@", "\n"],
